@@ -1,0 +1,45 @@
+/*index.css*/
+html,body, h1, h2, h3, h4, div, p, ul, ol, li{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font: inherit;
+    font-size: 10px;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+html{
+    font-size: 62.5%;
+}
+h1{
+    font-size: 7em;
+    font-weight: bold;
+    text-align: center;
+}
+h2{
+    font-size: 2.2em;
+    font-weight: normal;
+    text-align: center;
+    color: white;
+    width: 700px;
+    margin: 0 auto;
+}
+.header{
+    background-color: #999999;
+}
+h3{
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 2.8em;
+    font-weight: normal;
+    text-align: center;
+    border: 1px solid #555555;
+
+}
+.tagline{
+    background-color: #000000;
+    padding: 20px 0 20px 0;
+}
+.projects ul{
+    width: 400px;
+     margin: 0 auto; 
+    list-style-type: none;
+}
